@@ -10,7 +10,7 @@
 | [coding-agent-harness](https://github.com/Zhang-hao111/coding-agent-harness) | TypeScript 版 harness：主循环 + 六大机制，74 个 mock-LLM 驱动的离线单元测试 |
 | [Freud](https://github.com/Zhang-hao111/Freud) | Python 版 harness：ReAct 循环、三态护栏、自研终端 UI，67 个 unittest |
 | [Sign-Bridge](https://github.com/RepoVoyage/Sign-Bridge) | GO 3S 手语翻译 App（Android 端负责人）：MediaCodec 裸流管线、双网络绑定，245 个 JVM 单元测试 |
-| [daily-news-email](https://github.com/Zhang-hao111/daily-news-email) | RSS → LLM 筛选 → 每日日报邮件，GitHub Actions 全自动，长期自用 |
+| [daily-news-email](https://github.com/Zhang-hao111/daily-news-email) | 26 源三管道并发 → LLM 精选 20 条日报（全文摘要、重要性评分、事件去重），周一自动周报；Cloudflare Worker 精确触发 + GitHub Actions，MIT，21 个单测 |
 
 小工具：[Obsidian-todo-sidebar](https://github.com/Zhang-hao111/Obsidian-todo-sidebar)（待办侧边栏插件）· [obsidian-file-sorter](https://github.com/Zhang-hao111/obsidian-file-sorter)（文件排序插件）
 
