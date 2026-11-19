@@ -8,7 +8,7 @@
 | 项目 | 简介 |
 |---|---|
 | [coding-agent-harness](https://github.com/Zhang-hao111/coding-agent-harness) | TypeScript 版 harness：主循环 + 六大机制，74 个 mock-LLM 驱动的离线单元测试 |
-| [Freud](https://github.com/Zhang-hao111/Freud) | Python 版 harness：ReAct 循环、三态护栏、自研终端 UI，67 个 unittest |
+| [Freud](https://github.com/Zhang-hao111/Freud/blob/%E8%BF%AD%E4%BB%A3%E4%BA%8C/README.md) | Python Agent harness，提供 CLI 和 Web 界面。MovieLens 插件支持 Hadoop 数据清洗、分类、聚类、降维，以及对分析结果的追问 |
 | [Sign-Bridge](https://github.com/RepoVoyage/Sign-Bridge) | GO 3S 手语翻译 App（Android 端负责人）：MediaCodec 裸流管线、双网络绑定，245 个 JVM 单元测试 |
 | [daily-news-email](https://github.com/Zhang-hao111/daily-news-email) | 26 源三管道并发 → LLM 精选 20 条日报（全文摘要、重要性评分、事件去重），周一自动周报；Cloudflare Worker 精确触发 + GitHub Actions，MIT，21 个单测 |
 
